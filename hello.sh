@@ -3,7 +3,6 @@
 ls
 echo "hello world"
 echo "cleaning the directory"
-sleep 5s
-pwd
+sleep 3s
 clear
 echo "job completed"
